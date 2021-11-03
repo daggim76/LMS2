@@ -704,14 +704,6 @@
       "author": "ENTER12"
    },
    {
-      "title": "ENTER13",
-      "ISBN": "9971513595",
-      "quantity": 1,
-      "year": 2001,
-      "department": "Computer Science",
-      "author": "ENTER14"
-   },
-   {
       "title": "ENTER15",
       "ISBN": "0201612577",
       "quantity": 1,
@@ -744,28 +736,12 @@
       "author": "ENTER22"
    },
    {
-      "title": "ENTER22",
-      "ISBN": "9780470599020",
-      "quantity": 1,
-      "year": 2011,
-      "department": "Computer Science",
-      "author": "ENTER23"
-   },
-   {
       "title": "ENTER24",
       "ISBN": "0201710986",
       "quantity": 1,
       "year": 2001,
       "department": "Computer Science",
       "author": "ENTER24"
-   },
-   {
-      "title": "ENTER25",
-      "ISBN": "9781615640843",
-      "quantity": 1,
-      "year": 2011,
-      "department": "Computer Science",
-      "author": "ENTER26"
    },
    {
       "title": "ENTER27",
@@ -776,36 +752,12 @@
       "author": "ENTER28"
    },
    {
-      "title": "ENTER29",
-      "ISBN": "9781116324066",
-      "quantity": 1,
-      "year": 2012,
-      "department": "Computer Science",
-      "author": "ENTER30"
-   },
-   {
       "title": "ENTER32",
       "ISBN": "0201886669",
       "quantity": 1,
       "year": 1997,
       "department": "Computer Science",
       "author": "ENTER31"
-   },
-   {
-      "title": "ENTER33",
-      "ISBN": "1558285504",
-      "quantity": 1,
-      "year": 1997,
-      "department": "Computer Science",
-      "author": "ENTER34"
-   },
-   {
-      "title": "ENTER35",
-      "ISBN": "0201710382",
-      "quantity": 1,
-      "year": 2000,
-      "department": "Computer Science",
-      "author": "ENTER36"
    },
    {
       "title": "ENTER37",
@@ -1216,14 +1168,6 @@
       "author": "ENTER138"
    },
    {
-      "title": "ENTER138",
-      "ISBN": "8120310500",
-      "quantity": 1,
-      "year": 2003,
-      "department": "Computer Science",
-      "author": "ENTER139"
-   },
-   {
       "title": "ENTER140",
       "ISBN": "1571761926",
       "quantity": 1,
@@ -1246,14 +1190,6 @@
       "year": 2012,
       "department": "Computer Science",
       "author": "ENTER145"
-   },
-   {
-      "title": "ENTER146",
-      "ISBN": "0072436344",
-      "quantity": 1,
-      "year": 2002,
-      "department": "Computer Science",
-      "author": "ENTER147"
    },
    {
       "title": "ENTER148",
