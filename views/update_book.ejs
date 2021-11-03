@@ -1,0 +1,88 @@
+
+<!-- include header -->
+<%- include('include/_header') %>
+<!-- /include header -->
+
+  <!-- Main Site -->
+  <main id="site-main">
+    <div class="container">
+        <div class="box-nav d-flex justify-between">
+           <div class="filter">
+               <a href="/"><i class="fas fa-angle-double-left"></i> All Books</a>
+           </div>
+        </div>
+        <div class="form-title text-center">
+            <h2 class="text-dark">Update Book</h2>
+            <span class="text-light">Use the below form to Update the Book</span>
+        </div>
+
+        <!-- add book form -->
+         <!-- form handling -->
+ <form method="POST" id="update_book">
+    <div class="new_book">
+        <div class="form-group">
+            <label for="title" class="text-light">Title</label>
+            <input type="hidden" name="id" value="<%= book._id %>">
+            <input type="text" name="title" value="<%= book.title %>" placeholder="">
+        </div>
+        <div class="form-group">
+            <label for="isbn" class="text-light">ISBN</label>
+            <input type="text" name="isbn" value="<%= book.ISBN%>" placeholder="ISBN">
+        </div>
+        <div class="form-group">
+            <label for="quantity" class="text-light">Quantity</label>
+            <input type="number" name="quantity" value="<%= book.quantity%>" placeholder="">
+        </div>
+        <div class="form-group">
+            <label for="department" class="text-light">Department</label>
+            <div class="radio inline">
+                <input type="radio" id="radio-2" name="department" value="Computer Science" <%= book.department == 'Computer Science' ? 'checked' : '' %>>
+                <label for="radio-2" class="radio-label text-lightR">Computer Science</label>
+            </div>
+            <div class="radio inline">
+                <input type="radio" id="radio-3" name="department" value="Accounting"  <%= book.department == 'Accounting' ? 'checked' : '' %> >
+                <label for="radio-3" class="radio-label text-lightR">Accounting</label>
+            </div>
+            <div class="radio inline">
+                <input type="radio" id="radio-4" name="department" value="Marketing"  <%= book.department == 'Marketing' ? 'checked' : '' %> >
+                <label for="radio-4" class="radio-label text-lightR">Marketing</label>
+            </div>
+            <div class="radio inline">
+                <input type="radio" id="radio-5" name="department" value="Business"  <%= book.department == 'Business' ? 'checked' : '' %> >
+                <label for="radio-5" class="radio-label text-lightR">Business</label>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="year" class="text-light">Year</label>
+            <input type="number" name="year" value="<%= book.year%>" style="margin-bottom: 7px;">
+        </div>
+        <div class="form-group">
+            <label for="Author" class="text-light">Author</label>
+            <input type="text" name="author" value="<%= book.author%>" ">
+        </div>
+        <div class="form-group">
+            <label for="department" class="text-light">Status</label>
+            <div class="radio inline">
+                <input type="radio" id="radio-6" name="status" value="Available" <%= book.status == 'Available' ? 'checked' : '' %> >
+                <label for="radio-6" class="radio-label text-lightR">Available</label>
+            </div>
+            <div class="radio inline">
+                <input type="radio" id="radio-7" name="status" value="Unavailable" <%= book.status == 'Unavailable' ? 'checked' : '' %> >
+                <label for="radio-7" class="radio-label text-lightR">Unavailable</label>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <button type="submit" class="btn text-dark update">Update Book</button>
+        </div>
+
+    </div>
+</form>
+       
+    </div>
+</main>
+<!-- /Main Site -->
+
+<!-- include footer -->
+<%- include('include/_footer') %>
+<!-- /include footer -->

@@ -1,0 +1,62 @@
+ <!-- form handling -->
+ <form action="/api/books" method="POST" id="add_book">
+    <div class="new_book">
+        <div class="form-group">
+            <label for="title" class="text-light">Title</label>
+            <input type="hidden" name="id" value="">
+            <input type="text" name="title" value="" placeholder="Title of the Book">
+        </div>
+        <div class="form-group">
+            <label for="isbn" class="text-light">ISBN</label>
+            <input type="text" name="isbn" value="" placeholder="ISBN">
+        </div>
+        <div class="form-group">
+            <label for="quantity" class="text-light">Quantity</label>
+            <input type="number" name="quantity" value="" placeholder="how many copies of the book exist">
+        </div>
+        <div class="form-group">
+            <label for="department" class="text-light">Department</label>
+            <div class="radio inline">
+                <input type="radio" id="radio-2" name="department" value="Computer Science" >
+                <label for="radio-2" class="radio-label text-lightR">Computer Science</label>
+            </div>
+            <div class="radio inline">
+                <input type="radio" id="radio-3" name="department" value="Accounting" >
+                <label for="radio-3" class="radio-label text-lightR">Accounting</label>
+            </div>
+            <div class="radio inline">
+                <input type="radio" id="radio-4" name="department" value="Marketing" >
+                <label for="radio-4" class="radio-label text-lightR">Marketing</label>
+            </div>
+            <div class="radio inline">
+                <input type="radio" id="radio-5" name="department" value="Business" >
+                <label for="radio-5" class="radio-label text-lightR">Business</label>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="Year" class="text-light">Year</label>
+            <input type="number" name="year" value="" style="margin-bottom: 7px;"  placeholder="what year was the Book published">
+        </div>
+        <div class="form-group">
+            <label for="Author" class="text-light">Author</label>
+            <input type="text" name="author" value="" placeholder="who wrote the Book" >
+        </div>
+
+        <div class="form-group">
+            <label for="Department" class="text-light">Status</label>
+            <div class="radio inline">
+                <input type="radio" id="radio-6" name="status" value="Available" >
+                <label for="radio-6" class="radio-label text-lightR">Available</label>
+            </div>
+            <div class="radio inline">
+                <input type="radio" id="radio-7" name="status" value="Unavailable" >
+                <label for="radio-7" class="radio-label text-lightR">Unavailable</label>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <button type="submit" class="btn text-dark update">Add Book</button>
+        </div>
+
+    </div>
+</form>
