@@ -1,14 +1,6 @@
 [
    {
-      "name": "digital logic and computer design",
-      "ISBN": "8120304179",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2003,
-      "author": "m.morris mano"
-   },
-   {
-      "name": "computer graphics",
+      "title": "computer graphics",
       "ISBN": "8121935814",
       "department": "computer science",
       "quantity": 1,
@@ -16,7 +8,7 @@
       "author": "er. rajv chopra"
    },
    {
-      "name": "JAVA for the world wide web",
+      "title": "JAVA for the world wide web",
       "ISBN": "02135407",
       "department": "computer science",
       "quantity": 1,
@@ -24,7 +16,7 @@
       "author": "duri smith"
    },
    {
-      "name": "algorithms in c",
+      "title": "algorithms in c",
       "ISBN": "0201514257",
       "department": "computer science",
       "quantity": 1,
@@ -32,7 +24,7 @@
       "author": "robert sedgewich"
    },
    {
-      "name": "graphics programmimg woth visual basic",
+      "title": "graphics programmimg woth visual basic",
       "ISBN": "0972305097",
       "department": "computer science",
       "quantity": 1,
@@ -40,7 +32,7 @@
       "author": "robert w.stewart"
    },
    {
-      "name": "fundamentals of computer algorithims",
+      "title": "fundamentals of computer algorithims",
       "ISBN": "97881737161266",
       "department": "computer science",
       "quantity": 2,
@@ -48,7 +40,7 @@
       "author": "elllis horwiz"
    },
    {
-      "name": "designing campos networks",
+      "title": "designing campos networks",
       "ISBN": "15787003302",
       "department": "computer science",
       "quantity": 1,
@@ -56,7 +48,7 @@
       "author": "terri quinnoandry"
    },
    {
-      "name": "computer networking",
+      "title": "computer networking",
       "ISBN": "0321497708",
       "department": "computer science",
       "quantity": 1,
@@ -64,7 +56,7 @@
       "author": "james f.kurose"
    },
    {
-      "name": "informatin systems management in practice",
+      "title": "informatin systems management in practice",
       "ISBN": "0130340731",
       "department": "computer science",
       "quantity": 1,
@@ -72,7 +64,7 @@
       "author": "barbara c.mcnurlin"
    },
    {
-      "name": "data structures algorithms and application in JAVA",
+      "title": "data structures algorithms and application in JAVA",
       "ISBN": "007109217X",
       "department": "computer science",
       "quantity": 3,
@@ -80,7 +72,7 @@
       "author": "SAHNI"
    },
    {
-      "name": "Data base and expert systems application",
+      "title": "Data base and expert systems application",
       "ISBN": "9783642035722",
       "department": "computer science",
       "quantity": 1,
@@ -88,7 +80,7 @@
       "author": "bhowmick.kung"
    },
    {
-      "name": "data base system design implemention and management",
+      "title": "data base system design implemention and management",
       "ISBN": "061906269x",
       "department": "computer science",
       "quantity": 2,
@@ -96,7 +88,7 @@
       "author": "peter rob carlos coronel"
    },
    {
-      "name": "data structures using c",
+      "title": "data structures using c",
       "ISBN": "9788131702291",
       "department": "computer science",
       "quantity": 1,
@@ -104,7 +96,7 @@
       "author": "modhe j.augrnstein"
    },
    {
-      "name": "data abstraction and problem solving with c++",
+      "title": "data abstraction and problem solving with c++",
       "ISBN": "0201741199",
       "department": "computer science",
       "quantity": 1,
@@ -112,7 +104,7 @@
       "author": "frank m.carrano"
    },
    {
-      "name": "data commuicaton and computer networks",
+      "title": "data commuicaton and computer networks",
       "ISBN": "0324593856",
       "department": "computer science",
       "quantity": 1,
@@ -120,7 +112,7 @@
       "author": "curt m.white"
    },
    {
-      "name": "calculus with analytic geometry",
+      "title": "calculus with analytic geometry",
       "ISBN": "0030968003",
       "department": "computer science",
       "quantity": 2,
@@ -128,7 +120,7 @@
       "author": "robert evis"
    },
    {
-      "name": "mastering data base design",
+      "title": "mastering data base design",
       "ISBN": "0333763173",
       "department": "computer science",
       "quantity": 1,
@@ -136,7 +128,7 @@
       "author": "helen holding"
    },
    {
-      "name": "introduction to scientific programming and simulation",
+      "title": "introduction to scientific programming and simulation",
       "ISBN": "9781680941197",
       "department": "computer science",
       "quantity": 1,
@@ -144,7 +136,7 @@
       "author": "joseph wright"
    },
    {
-      "name": "calculus early transcendentals",
+      "title": "calculus early transcendentals",
       "ISBN": "1256739367",
       "department": "computer science",
       "quantity": 1,
@@ -152,7 +144,7 @@
       "author": "mavrice d.weir"
    },
    {
-      "name": "a first course in data processing",
+      "title": "a first course in data processing",
       "ISBN": "0471177385",
       "department": "computer science",
       "quantity": 1,
@@ -160,7 +152,7 @@
       "author": "j.daniel cauger"
    },
    {
-      "name": "corparate information system managment",
+      "title": "corparate information system managment",
       "ISBN": "0072902833",
       "department": "computer science",
       "quantity": 1,
@@ -168,7 +160,7 @@
       "author": "james l.mckenney"
    },
    {
-      "name": "data structure and algorithms with object oriented design patterns in c++",
+      "title": "data structure and algorithms with object oriented design patterns in c++",
       "ISBN": "0471241342",
       "department": "computer science",
       "quantity": 1,
@@ -176,7 +168,7 @@
       "author": "bruno r.prelss"
    },
    {
-      "name": "SAMS teach your self TcpIp in 24 hours",
+      "title": "SAMS teach your self TcpIp in 24 hours",
       "ISBN": "0672325659",
       "department": "computer science",
       "quantity": 1,
@@ -184,7 +176,7 @@
       "author": "jue casad"
    },
    {
-      "name": "information system project management",
+      "title": "information system project management",
       "ISBN": "9788132105701",
       "department": "computer science",
       "quantity": 1,
@@ -192,7 +184,7 @@
       "author": "david avison"
    },
    {
-      "name": "data structures and algorsims c++",
+      "title": "data structures and algorsims c++",
       "ISBN": "0534375979",
       "department": "computer science",
       "quantity": 1,
@@ -200,7 +192,7 @@
       "author": "adem drozdek"
    },
    {
-      "name": "information system development method logies techniques and tools",
+      "title": "information system development method logies techniques and tools",
       "ISBN": "0077114175",
       "department": "computer science",
       "quantity": 1,
@@ -208,7 +200,7 @@
       "author": "david avison"
    },
    {
-      "name": "computer system on integrated approach to archltecture and operating systems",
+      "title": "computer system on integrated approach to archltecture and operating systems",
       "ISBN": "97881317912172",
       "department": "computer science",
       "quantity": 1,
@@ -216,7 +208,7 @@
       "author": "william d.learly JR"
    },
    {
-      "name": "advanced PHP programming",
+      "title": "advanced PHP programming",
       "ISBN": "067325616",
       "department": "computer science",
       "quantity": 1,
@@ -224,7 +216,7 @@
       "author": "george schlossnagle"
    },
    {
-      "name": "Java the complete reference",
+      "title": "Java the complete reference",
       "ISBN": "9780071606301",
       "department": "computer science",
       "quantity": 1,
@@ -232,7 +224,7 @@
       "author": "herbert schildt"
    },
    {
-      "name": "computer system architecture",
+      "title": "computer system architecture",
       "ISBN": "8120308557",
       "department": "computer science",
       "quantity": 1,
@@ -240,7 +232,7 @@
       "author": "m.morris mano"
    },
    {
-      "name": "business data communications and network",
+      "title": "business data communications and network",
       "ISBN": "0471771163",
       "department": "computer science",
       "quantity": 1,
@@ -248,15 +240,15 @@
       "author": "fitz geralD dennis"
    },
    {
-      "name": "introdution to games of strategy ",
-      "ISBN": "",
+      "title": "introdution to games of strategy ",
+      "ISBN": "ENTER237",
       "department": "computer science",
       "quantity": 1,
       "year": 1970,
       "author": "france b.may"
    },
    {
-      "name": "step by step microsoft office project 2007",
+      "title": "step by step microsoft office project 2007",
       "ISBN": "9780735623057",
       "department": "computer science",
       "quantity": 1,
@@ -264,7 +256,7 @@
       "author": "timothy johnson"
    },
    {
-      "name": "photoshop restoratin retouching",
+      "title": "photoshop restoratin retouching",
       "ISBN": "0789723182",
       "department": "computer science",
       "quantity": 1,
@@ -272,7 +264,7 @@
       "author": "katrinelsmann"
    },
    {
-      "name": "visual basic for window mobile,web,office and data base applications comprehensive",
+      "title": "visual basic for window mobile,web,office and data base applications comprehensive",
       "ISBN": "9780619254827",
       "department": "computer science",
       "quantity": 1,
@@ -280,15 +272,15 @@
       "author": "gary b.shelly"
    },
    {
-      "name": "learing prl onlvin 32 systems",
-      "ISBN": "",
+      "title": "learing prl onlvin 32 systems",
+      "ISBN": "ENTER0",
       "department": "computer science",
       "quantity": 1,
       "year": 1997,
       "author": "randal l.schwartz"
    },
    {
-      "name": "Q basic with an introduction to visual basic",
+      "title": "Q basic with an introduction to visual basic",
       "ISBN": "0134738762",
       "department": "computer science",
       "quantity": 1,
@@ -296,7 +288,7 @@
       "author": "david l.schneider"
    },
    {
-      "name": "century 21 key boarding and information processing",
+      "title": "century 21 key boarding and information processing",
       "ISBN": "0538619565",
       "department": "computer science",
       "quantity": 2,
@@ -304,7 +296,7 @@
       "author": "robinson"
    },
    {
-      "name": "data networks ",
+      "title": "data networks ",
       "ISBN": "0131968254",
       "department": "computer science",
       "quantity": 1,
@@ -312,7 +304,7 @@
       "author": "robert gallager"
    },
    {
-      "name": "a guide to microsoft proxy server 2.0",
+      "title": "a guide to microsoft proxy server 2.0",
       "ISBN": "020163371x",
       "department": "computer science",
       "quantity": 1,
@@ -320,15 +312,15 @@
       "author": "timothy"
    },
    {
-      "name": "introduction to computer for college and universty student",
-      "ISBN": "",
+      "title": "introduction to computer for college and universty student",
+      "ISBN": "ENTER1",
       "department": "computer science",
       "quantity": 1,
       "year": 2005,
       "author": "temesgen azemeraw"
    },
    {
-      "name": "microsoft office 2007",
+      "title": "microsoft office 2007",
       "ISBN": "9781423903963",
       "department": "computer science",
       "quantity": 1,
@@ -336,7 +328,7 @@
       "author": "pase wark"
    },
    {
-      "name": "dynamic HTML",
+      "title": "dynamic HTML",
       "ISBN": "1565924940",
       "department": "computer science",
       "quantity": 1,
@@ -344,7 +336,7 @@
       "author": "danny good man"
    },
    {
-      "name": "information technology and management",
+      "title": "information technology and management",
       "ISBN": "0256176183",
       "department": "computer science",
       "quantity": 3,
@@ -352,7 +344,7 @@
       "author": "cata.baril thompson"
    },
    {
-      "name": "corporate informaion system managment",
+      "title": "corporate informaion system managment",
       "ISBN": "0072902825",
       "department": "computer science",
       "quantity": 1,
@@ -360,7 +352,7 @@
       "author": "lynda m.applegate"
    },
    {
-      "name": "HTML web publishing 6 in 1",
+      "title": "HTML web publishing 6 in 1",
       "ISBN": "0789714078",
       "department": "computer science",
       "quantity": 1,
@@ -368,7 +360,7 @@
       "author": "todd stauffer"
    },
    {
-      "name": "advance in computes",
+      "title": "advance in computes",
       "ISBN": "0120121506",
       "department": "computer science",
       "quantity": 1,
@@ -376,7 +368,7 @@
       "author": "marvin v.zelokowitz"
    },
    {
-      "name": "windows NT v4.0 server adminstration",
+      "title": "windows NT v4.0 server adminstration",
       "ISBN": "1884486207",
       "department": "computer science",
       "quantity": 1,
@@ -384,7 +376,7 @@
       "author": "core"
    },
    {
-      "name": "information storage and retrieval",
+      "title": "information storage and retrieval",
       "ISBN": "9788120507702",
       "department": "computer science",
       "quantity": 1,
@@ -392,7 +384,7 @@
       "author": "robert r.korfhage"
    },
    {
-      "name": "xsit",
+      "title": "xsit",
       "ISBN": "1861005067",
       "department": "computer science",
       "quantity": 1,
@@ -400,7 +392,7 @@
       "author": "micriael key"
    },
    {
-      "name": "next generation sshz implementions",
+      "title": "next generation sshz implementions",
       "ISBN": "9781597492836",
       "department": "computer science",
       "quantity": 1,
@@ -408,7 +400,7 @@
       "author": "dle liu"
    },
    {
-      "name": "upgrading your pc",
+      "title": "upgrading your pc",
       "ISBN": "0789725991",
       "department": "computer science",
       "quantity": 1,
@@ -416,7 +408,7 @@
       "author": "mork soper with partrick norton"
    },
    {
-      "name": "introductory circuit analysis",
+      "title": "introductory circuit analysis",
       "ISBN": "0132359049",
       "department": "computer science",
       "quantity": 1,
@@ -424,7 +416,7 @@
       "author": "robert l "
    },
    {
-      "name": "software engineering",
+      "title": "software engineering",
       "ISBN": "020139815x",
       "department": "computer science",
       "quantity": 1,
@@ -432,7 +424,7 @@
       "author": "ian sommerivlle"
    },
    {
-      "name": "profession c++",
+      "title": "profession c++",
       "ISBN": "0764575341",
       "department": "computer science",
       "quantity": 1,
@@ -440,7 +432,7 @@
       "author": "christian nagel"
    },
    {
-      "name": "computer networkind internet protocals in action",
+      "title": "computer networkind internet protocals in action",
       "ISBN": "9780471661863",
       "department": "computer science",
       "quantity": 1,
@@ -448,7 +440,7 @@
       "author": "jeanna matthews"
    },
    {
-      "name": "HTML,XHTML AND CSS",
+      "title": "HTML,XHTML AND CSS",
       "ISBN": "0321430840",
       "department": "computer science",
       "quantity": 1,
@@ -456,7 +448,7 @@
       "author": "elizabeth castro"
    },
    {
-      "name": "introdution to artificisl intelligence",
+      "title": "introdution to artificisl intelligence",
       "ISBN": "9788120349971",
       "department": "computer science",
       "quantity": 2,
@@ -464,7 +456,7 @@
       "author": "rajendra akerkar"
    },
    {
-      "name": "data structures and algorithms in java",
+      "title": "data structures and algorithms in java",
       "ISBN": "8176351865",
       "department": "computer science",
       "quantity": 1,
@@ -472,7 +464,7 @@
       "author": "robert lafore"
    },
    {
-      "name": "software project managment reading and cases",
+      "title": "software project managment reading and cases",
       "ISBN": "025618545x",
       "department": "computer science",
       "quantity": 1,
@@ -480,7 +472,7 @@
       "author": "chris f.kemerer"
    },
    {
-      "name": "data structures with abstract data types and pascal",
+      "title": "data structures with abstract data types and pascal",
       "ISBN": "0534092640",
       "department": "computer science",
       "quantity": 1,
@@ -488,7 +480,7 @@
       "author": "stubbs and webre"
    },
    {
-      "name": "informatin systems today",
+      "title": "informatin systems today",
       "ISBN": "01318577499",
       "department": "computer science",
       "quantity": 1,
@@ -496,7 +488,7 @@
       "author": "leanard jessup"
    },
    {
-      "name": "introduction to mass communication",
+      "title": "introduction to mass communication",
       "ISBN": "0697085899",
       "department": "computer science",
       "quantity": 1,
@@ -504,7 +496,7 @@
       "author": "jay black"
    },
    {
-      "name": "computer organization and design",
+      "title": "computer organization and design",
       "ISBN": "8120312546",
       "department": "computer science",
       "quantity": 1,
@@ -512,7 +504,7 @@
       "author": "p.pal chaudhurl"
    },
    {
-      "name": "artifical neural network",
+      "title": "artifical neural network",
       "ISBN": "007057118x",
       "department": "computer science",
       "quantity": 1,
@@ -520,7 +512,7 @@
       "author": "robert j. schalkoff"
    },
    {
-      "name": "artifica intelligence",
+      "title": "artifica intelligence",
       "ISBN": "1558605355",
       "department": "computer science",
       "quantity": 1,
@@ -528,7 +520,7 @@
       "author": "nils nilsson"
    },
    {
-      "name": "computer organization and architecture",
+      "title": "computer organization and architecture",
       "ISBN": "8120321030",
       "department": "computer science",
       "quantity": 1,
@@ -536,7 +528,7 @@
       "author": "williams stalling"
    },
    {
-      "name": "the pearson custom program for cls",
+      "title": "the pearson custom program for cls",
       "ISBN": "9781269680882",
       "department": "computer science",
       "quantity": 2,
@@ -544,7 +536,7 @@
       "author": "boylston street"
    },
    {
-      "name": "computer networking with internet protocols and technology",
+      "title": "computer networking with internet protocols and technology",
       "ISBN": "9788131709351",
       "department": "computer science",
       "quantity": 1,
@@ -552,7 +544,7 @@
       "author": "willam stallig"
    },
    {
-      "name": "software design",
+      "title": "software design",
       "ISBN": "9788131718681",
       "department": "computer science",
       "quantity": 1,
@@ -560,7 +552,7 @@
       "author": "david budgen"
    },
    {
-      "name": "fundamentals of logic design",
+      "title": "fundamentals of logic design",
       "ISBN": "9780534378042",
       "department": "computer science",
       "quantity": 1,
@@ -568,7 +560,7 @@
       "author": "charles h.roth"
    },
    {
-      "name": "analysis and design of informatin system",
+      "title": "analysis and design of informatin system",
       "ISBN": "8120317270",
       "department": "computer science",
       "quantity": 1,
@@ -576,7 +568,7 @@
       "author": "v.rajaraman"
    },
    {
-      "name": "management information system for the information age",
+      "title": "management information system for the information age",
       "ISBN": "0071214666",
       "department": "computer science",
       "quantity": 1,
@@ -584,7 +576,7 @@
       "author": "stephen haag"
    },
    {
-      "name": "managing informaton technology ",
+      "title": "managing informaton technology ",
       "ISBN": "0130115312",
       "department": "computer science",
       "quantity": 1,
@@ -592,7 +584,7 @@
       "author": "e.wainrigjt martin"
    },
    {
-      "name": "data structures and algoriths with object oriented design patterns in c++",
+      "title": "data structures and algoriths with object oriented design patterns in c++",
       "ISBN": "9971513595",
       "department": "computer science",
       "quantity": 1,
@@ -600,7 +592,7 @@
       "author": "bruno r.preiss"
    },
    {
-      "name": "data structures and algorithms",
+      "title": "data structures and algorithms",
       "ISBN": "534375979",
       "department": "computer science",
       "quantity": 2,
@@ -608,7 +600,7 @@
       "author": "adam drozdek"
    },
    {
-      "name": "apache cook book",
+      "title": "apache cook book",
       "ISBN": "97805965219949",
       "quantity": 1,
       "year": 2007,
@@ -616,7 +608,7 @@
       "author": "ken coar and richboney"
    },
    {
-      "name": "essentals of  AI",
+      "title": "essentals of  AI",
       "ISBN": "1558602216",
       "quantity": 1,
       "year": 1993,
@@ -624,7 +616,7 @@
       "author": "matt ginsberg"
    },
    {
-      "name": "builld and upgrade your own pc",
+      "title": "builld and upgrade your own pc",
       "ISBN": "0750649348",
       "quantity": 1,
       "year": 2002,
@@ -632,7 +624,7 @@
       "author": "jan sinclalr"
    },
    {
-      "name": "PHP advanced",
+      "title": "PHP advanced",
       "ISBN": "9789332502703",
       "quantity": 1,
       "year": 2013,
@@ -640,7 +632,7 @@
       "author": "larry ullman"
    },
    {
-      "name": "introduction to IT",
+      "title": "introduction to IT",
       "ISBN": "9788125609683",
       "quantity": 1,
       "year": 2010,
@@ -648,7 +640,7 @@
       "author": "turban.rainer.potter"
    },
    {
-      "name": "essentials of data commnication",
+      "title": "essentials of data commnication",
       "ISBN": "0805377360",
       "quantity": 1,
       "year": 1997,
@@ -656,15 +648,15 @@
       "author": "david stamper and the saratoga group"
    },
    {
-      "name": "the facts o f  file dictionary of computer science ",
+      "title": "the facts o f  file dictionary of computer science ",
       "ISBN": "0816042853",
       "quantity": 1,
       "year": 2001,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER2"
    },
    {
-      "name": "educational computer",
+      "title": "educational computer",
       "ISBN": "013375262",
       "quantity": 1,
       "year": 1997,
@@ -672,935 +664,935 @@
       "author": "michael r.simonser"
    },
    {
-      "name": "introdution computer methods",
-      "ISBN": "",
+      "title": "introdution computer methods",
+      "ISBN": "ENTER3",
       "quantity": 1,
       "year": 1965,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER4"
    },
    {
-      "name": "",
+      "title": "ENTER5",
       "ISBN": "0131433512",
       "quantity": 1,
       "year": 2004,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER6"
    },
    {
-      "name": "",
+      "title": "ENTER7",
       "ISBN": "0387513442",
       "quantity": 1,
       "year": 2006,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER8"
    },
    {
-      "name": "",
+      "title": "ENTER9",
       "ISBN": "8121930774",
       "quantity": 1,
       "year": 2013,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER10"
    },
    {
-      "name": "",
+      "title": "ENTER11",
       "ISBN": "01377998945",
       "quantity": 1,
       "year": 1999,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER12"
    },
    {
-      "name": "",
+      "title": "ENTER13",
       "ISBN": "9971513595",
       "quantity": 1,
       "year": 2001,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER14"
    },
    {
-      "name": "",
+      "title": "ENTER15",
       "ISBN": "0201612577",
       "quantity": 1,
       "year": 2001,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER16"
    },
    {
-      "name": "",
+      "title": "ENTER17",
       "ISBN": "0534376665",
       "quantity": 1,
       "year": 2001,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER18"
    },
    {
-      "name": "",
+      "title": "ENTER19",
       "ISBN": "412090104",
       "quantity": 1,
       "year": 1971,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER20"
    },
    {
-      "name": "",
+      "title": "ENTER21",
       "ISBN": "0071422455",
       "quantity": 1,
       "year": 2004,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER22"
    },
    {
-      "name": "",
+      "title": "ENTER22",
       "ISBN": "9780470599020",
       "quantity": 1,
       "year": 2011,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER23"
    },
    {
-      "name": "",
+      "title": "ENTER24",
       "ISBN": "0201710986",
       "quantity": 1,
       "year": 2001,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER24"
    },
    {
-      "name": "",
+      "title": "ENTER25",
       "ISBN": "9781615640843",
       "quantity": 1,
       "year": 2011,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER26"
    },
    {
-      "name": "",
+      "title": "ENTER27",
       "ISBN": "0130404462",
       "quantity": 1,
       "year": 2002,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER28"
    },
    {
-      "name": "",
+      "title": "ENTER29",
       "ISBN": "9781116324066",
       "quantity": 1,
       "year": 2012,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER30"
    },
    {
-      "name": "",
+      "title": "ENTER32",
       "ISBN": "0201886669",
       "quantity": 1,
       "year": 1997,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER31"
    },
    {
-      "name": "",
+      "title": "ENTER33",
       "ISBN": "1558285504",
       "quantity": 1,
       "year": 1997,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER34"
    },
    {
-      "name": "",
+      "title": "ENTER35",
       "ISBN": "0201710382",
       "quantity": 1,
       "year": 2000,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER36"
    },
    {
-      "name": "",
+      "title": "ENTER37",
       "ISBN": "0324788317",
       "quantity": 1,
       "year": 2010,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER38"
    },
    {
-      "name": "",
+      "title": "ENTER39",
       "ISBN": "126977834x",
       "quantity": 1,
       "year": 2015,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER40"
    },
    {
-      "name": "",
+      "title": "ENTER41",
       "ISBN": "817635340x",
       "quantity": 1,
       "year": 1993,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER42"
    },
    {
-      "name": "",
+      "title": "ENTER43",
       "ISBN": "0070628114",
       "quantity": 1,
       "year": 1998,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER44"
    },
    {
-      "name": "",
+      "title": "ENTER45",
       "ISBN": "9781849577904",
       "quantity": 1,
       "year": 2000,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER46"
    },
    {
-      "name": "",
+      "title": "ENTER46",
       "ISBN": "0619188448",
       "quantity": 1,
       "year": 2004,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER47"
    },
    {
-      "name": "",
+      "title": "ENTER48",
       "ISBN": "0746040911",
       "quantity": 1,
       "year": 1,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER49"
    },
    {
-      "name": "",
+      "title": "ENTER50",
       "ISBN": "0938151716",
       "quantity": 1,
       "year": 1992,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER51"
    },
    {
-      "name": "",
+      "title": "ENTER52",
       "ISBN": "1590843126",
       "quantity": 1,
       "year": 2003,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER53"
    },
    {
-      "name": "",
+      "title": "ENTER54",
       "ISBN": "0766020304",
       "quantity": 1,
       "year": 2003,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER55"
    },
    {
-      "name": "",
+      "title": "ENTER56",
       "ISBN": "0395967368",
       "quantity": 1,
       "year": 2004,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER57"
    },
    {
-      "name": "",
+      "title": "ENTER57",
       "ISBN": "0133141020",
       "quantity": 1,
       "year": 2014,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER58"
    },
    {
-      "name": "",
+      "title": "ENTER59",
       "ISBN": "1575210096",
       "quantity": 1,
       "year": 1996,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER60"
    },
    {
-      "name": "",
+      "title": "ENTER61",
       "ISBN": "0553348760",
       "quantity": 1,
       "year": 1991,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER62"
    },
    {
-      "name": "",
+      "title": "ENTER63",
       "ISBN": "0538742917",
       "quantity": 1,
       "year": 2011,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER64"
    },
    {
-      "name": "",
+      "title": "ENTER65",
       "ISBN": "158830162",
       "quantity": 1,
       "year": 1994,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER67"
    },
    {
-      "name": "",
+      "title": "ENTER66",
       "ISBN": "0895883813",
       "quantity": 1,
       "year": 1987,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER69"
    },
    {
-      "name": "",
+      "title": "ENTER70",
       "ISBN": "0619187190",
       "quantity": 1,
       "year": 1,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER72"
    },
    {
-      "name": "",
+      "title": "ENTER71",
       "ISBN": "021700050",
       "quantity": 1,
       "year": 2000,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER73"
    },
    {
-      "name": "",
+      "title": "ENTER74",
       "ISBN": "0072436344",
       "quantity": 1,
       "year": 2002,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER75"
    },
    {
-      "name": "",
+      "title": "ENTER76",
       "ISBN": "0692105539",
       "quantity": 1,
       "year": 1988,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER77"
    },
    {
-      "name": "",
+      "title": "ENTER78",
       "ISBN": "1566090938",
       "quantity": 1,
       "year": 1993,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER79"
    },
    {
-      "name": "",
+      "title": "ENTER80",
       "ISBN": "1555215064",
       "quantity": 1,
       "year": 1990,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER81"
    },
    {
-      "name": "",
+      "title": "ENTER82",
       "ISBN": "978007351705",
       "quantity": 1,
       "year": 2010,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER83"
    },
    {
-      "name": "",
+      "title": "ENTER84",
       "ISBN": "0766828069",
       "quantity": 1,
       "year": 2001,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER85"
    },
    {
-      "name": "",
+      "title": "ENTER86",
       "ISBN": "0672324105",
       "quantity": 1,
       "year": 2002,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER87"
    },
    {
-      "name": "",
+      "title": "ENTER88",
       "ISBN": "0072948566",
       "quantity": 1,
       "year": 2005,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER89"
    },
    {
-      "name": "",
+      "title": "ENTER90",
       "ISBN": "9780470018668",
       "quantity": 1,
       "year": 2007,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER91"
    },
    {
-      "name": "",
+      "title": "ENTER92",
       "ISBN": "1568849044",
       "quantity": 1,
       "year": 2000,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER93"
    },
    {
-      "name": "",
+      "title": "ENTER94",
       "ISBN": "0072122307",
       "quantity": 1,
       "year": 2000,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER95"
    },
    {
-      "name": "",
+      "title": "ENTER96",
       "ISBN": "34531106x",
       "quantity": 1,
       "year": 1982,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER97"
    },
    {
-      "name": "",
+      "title": "ENTER98",
       "ISBN": "9788131760307",
       "quantity": 3,
       "year": 2011,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER99"
    },
    {
-      "name": "",
+      "title": "ENTER100",
       "ISBN": "0733974848",
       "quantity": 1,
       "year": 2007,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER101"
    },
    {
-      "name": "",
+      "title": "ENTER102",
       "ISBN": "08125907890",
       "quantity": 1,
       "year": 1999,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER103"
    },
    {
-      "name": "",
+      "title": "ENTER104",
       "ISBN": "9788131764619",
       "quantity": 1,
       "year": 2012,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER105"
    },
    {
-      "name": "",
+      "title": "ENTER106",
       "ISBN": "0333802888",
       "quantity": 1,
       "year": 2000,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER107"
    },
    {
-      "name": "",
+      "title": "ENTER108",
       "ISBN": "97893632502307",
       "quantity": 1,
       "year": 2013,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER110"
    },
    {
-      "name": "",
+      "title": "ENTER111",
       "ISBN": "9781466560594",
       "quantity": 1,
       "year": 2015,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER112"
    },
    {
-      "name": "",
+      "title": "ENTER113",
       "ISBN": "0024154954",
       "quantity": 1,
       "year": 1993,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER114"
    },
    {
-      "name": "",
+      "title": "ENTER115",
       "ISBN": "9781430223973",
       "quantity": 1,
       "year": 2009,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER116"
    },
    {
-      "name": "",
+      "title": "ENTER117",
       "ISBN": "0619015268",
       "quantity": 1,
       "year": 2000,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER118"
    },
    {
-      "name": "",
+      "title": "ENTER119",
       "ISBN": "9780128000561",
       "quantity": 2,
       "year": 2016,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER120"
    },
    {
-      "name": "",
+      "title": "ENTER121",
       "ISBN": "9788120344082",
       "quantity": 1,
       "year": 2011,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER122"
    },
    {
-      "name": "",
+      "title": "ENTER123",
       "ISBN": "9788131722879",
       "quantity": 1,
       "year": 2007,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER124"
    },
    {
-      "name": "",
+      "title": "ENTER125",
       "ISBN": "0619267976",
       "quantity": 1,
       "year": 2006,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER126"
    },
    {
-      "name": "",
+      "title": "ENTER127",
       "ISBN": "8177224190",
       "quantity": 1,
       "year": 2005,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER128"
    },
    {
-      "name": "",
+      "title": "ENTER129",
       "ISBN": "8120311630",
       "quantity": 1,
       "year": 1996,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER131"
    },
    {
-      "name": "",
+      "title": "ENTER132",
       "ISBN": "0130821829",
       "quantity": 1,
       "year": 1999,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER133"
    },
    {
-      "name": "",
+      "title": "ENTER134",
       "ISBN": "9789332502116",
       "quantity": 1,
       "year": 2013,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER135"
    },
    {
-      "name": "",
+      "title": "ENTER136",
       "ISBN": "0596004699",
       "quantity": 1,
       "year": 2003,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER137"
    },
    {
-      "name": "",
+      "title": "ENTER137",
       "ISBN": "1571767926",
       "quantity": 1,
       "year": 1996,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER138"
    },
    {
-      "name": "",
+      "title": "ENTER138",
       "ISBN": "8120310500",
       "quantity": 1,
       "year": 2003,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER139"
    },
    {
-      "name": "",
+      "title": "ENTER140",
       "ISBN": "1571761926",
       "quantity": 1,
       "year": 1996,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER141"
    },
    {
-      "name": "",
+      "title": "ENTER142",
       "ISBN": "8120310500",
       "quantity": 1,
       "year": 2003,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER143"
    },
    {
-      "name": "",
+      "title": "ENTER144",
       "ISBN": "97806723094463",
       "quantity": 1,
       "year": 2012,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER145"
    },
    {
-      "name": "",
+      "title": "ENTER146",
       "ISBN": "0072436344",
       "quantity": 1,
       "year": 2002,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER147"
    },
    {
-      "name": "",
+      "title": "ENTER148",
       "ISBN": "0070598973",
       "quantity": 1,
       "year": 2002,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER149"
    },
    {
-      "name": "",
-      "ISBN": "",
+      "title": "ENTER150",
+      "ISBN": "ENTER151",
       "quantity": 1,
       "year": 2012,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER152"
    },
    {
-      "name": "",
+      "title": "ENTER153",
       "ISBN": "978817758576",
       "quantity": 2,
       "year": 2002,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER154"
    },
    {
-      "name": "",
+      "title": "ENTER155",
       "ISBN": "9788131709306",
       "quantity": 1,
       "year": 2005,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER156"
    },
    {
-      "name": "",
+      "title": "ENTER157",
       "ISBN": "1418835544",
       "quantity": 1,
       "year": 2006,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER158"
    },
    {
-      "name": "",
+      "title": "ENTER157",
       "ISBN": "0130798622",
       "quantity": 1,
       "year": 2000,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER159"
    },
    {
-      "name": "",
+      "title": "ENTER160",
       "ISBN": "0130848166",
       "quantity": 1,
       "year": 2000,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER161"
    },
    {
-      "name": "",
+      "title": "ENTER162",
       "ISBN": "0619213728",
       "quantity": 1,
       "year": 2004,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER163"
    },
    {
-      "name": "",
+      "title": "ENTER164",
       "ISBN": "0072956863",
       "quantity": 1,
       "year": 2006,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER165"
    },
    {
-      "name": "",
+      "title": "ENTER166",
       "ISBN": "0072471417",
       "quantity": 1,
       "year": 2002,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER167"
    },
    {
-      "name": "",
+      "title": "ENTER168",
       "ISBN": "0619215291",
       "quantity": 1,
       "year": 2005,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER169"
    },
    {
-      "name": "",
+      "title": "ENTER171",
       "ISBN": "0072465638",
       "quantity": 1,
       "year": 1,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER172"
    },
    {
-      "name": "",
+      "title": "ENTER173",
       "ISBN": "0558209068",
       "quantity": 1,
       "year": 2010,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER174"
    },
    {
-      "name": "",
+      "title": "ENTER175",
       "ISBN": "0534955681",
       "quantity": 1,
       "year": 1997,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER176"
    },
    {
-      "name": "",
+      "title": "ENTER177",
       "ISBN": "9788177565551",
       "quantity": 1,
       "year": 2007,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER178"
    },
    {
-      "name": "",
+      "title": "ENTER179",
       "ISBN": "978818529652",
       "quantity": 1,
       "year": 2013,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER180"
    },
    {
-      "name": "",
+      "title": "ENTER181",
       "ISBN": "08125411650",
       "quantity": 1,
       "year": 1999,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER182"
    },
    {
-      "name": "",
+      "title": "ENTER183",
       "ISBN": "9788131792",
       "quantity": 1,
       "year": 2012,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER184"
    },
    {
-      "name": "",
+      "title": "ENTER185",
       "ISBN": "9788131758694",
       "quantity": 1,
       "year": 2012,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER186"
    },
    {
-      "name": "",
+      "title": "ENTER187",
       "ISBN": "9789332518858",
       "quantity": 1,
       "year": 2014,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER188"
    },
    {
-      "name": "",
+      "title": "ENTER189",
       "ISBN": "1133953514",
       "quantity": 1,
       "year": 2014,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER190"
    },
    {
-      "name": "",
+      "title": "ENTER191",
       "ISBN": "0840062184",
       "quantity": 6,
       "year": 2012,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER192"
    },
    {
-      "name": "",
+      "title": "ENTER193",
       "ISBN": "1563086034",
       "quantity": 1,
       "year": 1999,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER194"
    },
    {
-      "name": "",
+      "title": "ENTER195",
       "ISBN": "0072472642",
       "quantity": 2,
       "year": 1,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER196"
    },
    {
-      "name": "",
+      "title": "ENTER197",
       "ISBN": "9788131702055",
       "quantity": 2,
       "year": 1974,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER198"
    },
    {
-      "name": "",
+      "title": "ENTER200",
       "ISBN": "0471193089",
       "quantity": 1,
       "year": 1998,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER201"
    },
    {
-      "name": "",
+      "title": "ENTER202",
       "ISBN": "9788126526531172",
       "quantity": 1,
       "year": 2010,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER203"
    },
    {
-      "name": "",
+      "title": "ENTER204",
       "ISBN": "0321180887",
       "quantity": 1,
       "year": 2003,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER205"
    },
    {
-      "name": "",
+      "title": "ENTER206",
       "ISBN": "01376928x",
       "quantity": 1,
       "year": 1999,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER207"
    },
    {
-      "name": "",
+      "title": "ENTER208",
       "ISBN": "9788177587678",
       "quantity": 1,
       "year": 2012,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER209"
    },
    {
-      "name": "",
+      "title": "ENTER210",
       "ISBN": "0321743121",
       "quantity": 1,
       "year": 2011,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER211"
    },
    {
-      "name": "",
+      "title": "ENTER212",
       "ISBN": "0805306080",
       "quantity": 1,
       "year": 1,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER211"
    },
    {
-      "name": "computer complexity",
-      "ISBN": "",
+      "title": "computer complexity",
+      "ISBN": "ENTER213",
       "quantity": 1,
       "year": 1,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER214"
    },
    {
-      "name": "",
+      "title": "ENTER215",
       "ISBN": "817029449",
       "quantity": 1,
       "year": 1995,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER216"
    },
    {
-      "name": "",
+      "title": "ENTER217",
       "ISBN": "0072395591",
       "quantity": 1,
       "year": 1,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER218"
    },
    {
-      "name": "",
-      "ISBN": "",
+      "title": "ENTER219",
+      "ISBN": "ENTER238",
       "quantity": 1,
       "year": 2009,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER221"
    },
    {
-      "name": "",
+      "title": "ENTER222",
       "ISBN": "97881317020505",
       "quantity": 1,
       "year": 1,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER223"
    },
    {
-      "name": "",
+      "title": "ENTER224",
       "ISBN": "0071008942",
       "quantity": 1,
       "year": 1,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER225"
    },
    {
-      "name": "",
+      "title": "ENTER226",
       "ISBN": "01761012049",
       "quantity": 1,
       "year": 2011,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER227"
    },
    {
-      "name": "",
+      "title": "ENTER228",
       "ISBN": "8120324617",
       "quantity": 1,
       "year": 2001,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER229"
    },
    {
-      "name": "",
+      "title": "ENTER230",
       "ISBN": "0534177662",
       "quantity": 1,
       "year": 1994,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER231"
    },
    {
-      "name": "",
+      "title": "ENTER232",
       "ISBN": "0230630324",
       "quantity": 1,
       "year": 2008,
       "department": "Computer Science",
-      "author": ""
+      "author": "ENTER233"
    },
    {
-      "name": "XML Crash Cours",
+      "title": "XML Crash Cours",
       "ISBN": "714222455",
       "quantity": 1,
       "department": "Computer Science",
@@ -1608,7 +1600,7 @@
       "author": "Schomum's easy"
    },
    {
-      "name": "joomla for dummies",
+      "title": "joomla for dummies",
       "ISBN": "9780470599020",
       "quantity": 1,
       "year": 2011,
@@ -1616,7 +1608,7 @@
       "author": "Seamus Behamy"
    },
    {
-      "name": "XML for world wide web",
+      "title": "XML for world wide web",
       "ISBN": "201710986",
       "quantity": 1,
       "year": 2001,
@@ -1624,7 +1616,7 @@
       "author": "Elizabeth Castro"
    },
    {
-      "name": "HTML5 and CSS3",
+      "title": "HTML5 and CSS3",
       "ISBN": "9781615640843",
       "quantity": 1,
       "year": 2011,
@@ -1632,7 +1624,7 @@
       "author": "Joe Kraynah"
    },
    {
-      "name": "XLST AND XPATH",
+      "title": "XLST AND XPATH",
       "ISBN": "130404462",
       "quantity": 1,
       "department": "Computer Science",
@@ -1640,7 +1632,7 @@
       "author": "Zarella L.Rcnden"
    },
    {
-      "name": "Delux Study Guide",
+      "title": "Delux Study Guide",
       "ISBN": "9781116324066",
       "quantity": 1,
       "department": "Computer Science",
@@ -1648,7 +1640,7 @@
       "author": "Dr. Dulaney Skandire"
    },
    {
-      "name": "Oprating systems",
+      "title": "Oprating systems",
       "ISBN": "73518174",
       "quantity": 2,
       "department": "Computer Science",
@@ -1656,7 +1648,7 @@
       "author ": "Sane holcombe"
    },
    {
-      "name": "The little mac book",
+      "title": "The little mac book",
       "ISBN": "201710382",
       "quantity": 1,
       "department": "Computer Science",
@@ -1664,15 +1656,15 @@
       "author": "Seve BrobackL.Rcnden"
    },
    {
-      "name": "Introduction to Computer Science",
-      "ISBN": "",
+      "title": "Introduction to Computer Science",
+      "ISBN": "ENTER234",
       "quantity": 5,
       "department": "Computer Science",
       "year": 1994,
       "author": "Dida Midekso"
    },
    {
-      "name": "information technology and computer application",
+      "title": "information technology and computer application",
       "ISBN": "8170145686",
       "quantity": 1,
       "department": "Computer Science",
@@ -1680,7 +1672,7 @@
       "author ": "Sultan chand"
    },
    {
-      "name": "Getting Grate in web Grahics",
+      "title": "Getting Grate in web Grahics",
       "ISBN": "1558285504",
       "quantity": 1,
       "department": "Computer Science",
@@ -1688,7 +1680,7 @@
       "author": "Laurie Mccanna"
    },
    {
-      "name": "Web Book",
+      "title": "Web Book",
       "ISBN": "0201710382",
       "quantity": 1,
       "department": "Computer Science",
@@ -1696,7 +1688,7 @@
       "author": "Robin williams"
    },
    {
-      "name": "an introduction to formal languge and automata",
+      "title": "an introduction to formal languge and automata",
       "ISBN": "9789380853284",
       "quantity": 5,
       "department": "Computer Science",
@@ -1704,7 +1696,7 @@
       "author ": "john"
    },
    {
-      "name": "Adobe Dreamweaver",
+      "title": "Adobe Dreamweaver",
       "ISBN": "0324788312",
       "quantity": 1,
       "department": "Computer Science",
@@ -1712,15 +1704,15 @@
       "author": "Shally Wells"
    },
    {
-      "name": "Learn Oracle",
-      "ISBN": "",
+      "title": "Learn Oracle",
+      "ISBN": "ENTER236",
       "quantity": 1,
       "department": "Computer Science",
       "year": 2002,
       "author": "Oracle"
    },
    {
-      "name": "designing interactive system",
+      "title": "designing interactive system",
       "ISBN": "9780321435330",
       "quantity": 1,
       "department": "Computer Science",
@@ -1728,7 +1720,7 @@
       "author": "david bengon"
    },
    {
-      "name": "computer architecture and organization",
+      "title": "computer architecture and organization",
       "ISBN": "9788131761557",
       "quantity": 1,
       "year": 2011,
@@ -1736,7 +1728,7 @@
       "author": "darling kindersley"
    },
    {
-      "name": "compute organization and architecture",
+      "title": "compute organization and architecture",
       "ISBN": "002415495",
       "quantity": 1,
       "year": 1993,
@@ -1744,7 +1736,7 @@
       "author": "macmillian"
    },
    {
-      "name": "digtal visions computer and art",
+      "title": "digtal visions computer and art",
       "ISBN": "0810918625",
       "quantity": 1,
       "year": 1998,
@@ -1752,7 +1744,7 @@
       "author": "harry n.abrham"
    },
    {
-      "name": "HTML essentials",
+      "title": "HTML essentials",
       "ISBN": "0763816558",
       "quantity": 4,
       "year": 2004,
@@ -1760,7 +1752,7 @@
       "author": "stave callihan"
    },
    {
-      "name": "Computer and informatin processing",
+      "title": "Computer and informatin processing",
       "ISBN": "0534039995",
       "quantity": 1,
       "year": 1938,
@@ -1768,7 +1760,7 @@
       "author": "robert behing"
    },
    {
-      "name": "the design of sites",
+      "title": "the design of sites",
       "ISBN": "0131345559",
       "quantity": 1,
       "year": 2007,
@@ -1776,7 +1768,7 @@
       "author": "jason i.hong"
    },
    {
-      "name": "intener cryptogtaphy",
+      "title": "intener cryptogtaphy",
       "ISBN": "9788131704",
       "quantity": 1,
       "year": 2006,
@@ -1784,7 +1776,7 @@
       "author": "richard e.smith"
    },
    {
-      "name": "the C++ Programming language",
+      "title": "the C++ Programming language",
       "ISBN": "020170073",
       "quantity": 1,
       "year": 1997,
@@ -1792,7 +1784,7 @@
       "author": "bjarne stroustrup"
    },
    {
-      "name": "JAVA example in anutshell",
+      "title": "JAVA example in anutshell",
       "ISBN": "0596000391",
       "quantity": 1,
       "year": 2000,
@@ -1800,7 +1792,7 @@
       "author": "david a.PATTERSPON"
    },
    {
-      "name": "Computer organization and design",
+      "title": "Computer organization and design",
       "ISBN": "9780123744937",
       "quantity": 1,
       "year": 2012,
@@ -1808,7 +1800,7 @@
       "author": "jane holcombe"
    },
    {
-      "name": "programming with JAVA",
+      "title": "programming with JAVA",
       "ISBN": "0070589429",
       "quantity": 1,
       "year": 2005,
@@ -1816,7 +1808,7 @@
       "author": "JOHN R.HUBBARD"
    },
    {
-      "name": "Computer architecture",
+      "title": "Computer architecture",
       "ISBN": "0070483345",
       "quantity": 1,
       "year": 2004,
@@ -1824,7 +1816,7 @@
       "author": "nicholas carter"
    },
    {
-      "name": "red hat RPM guide",
+      "title": "red hat RPM guide",
       "ISBN": "0764549650",
       "quantity": 1,
       "year": 2003,
@@ -1832,7 +1824,7 @@
       "author": "eric faste johnson"
    },
    {
-      "name": "c++ an itroduction to data structures",
+      "title": "c++ an itroduction to data structures",
       "ISBN": "0023887257",
       "quantity": 1,
       "year": 1999,
@@ -1840,7 +1832,7 @@
       "author": "larry nyhoff"
    },
    {
-      "name": "advanced c++ programming styles and idioms",
+      "title": "advanced c++ programming styles and idioms",
       "ISBN": "0201548550",
       "quantity": 1,
       "year": 1992,
@@ -1848,611 +1840,11 @@
       "author": "james o.copllen"
    },
    {
-      "name": "digital logic and computer design",
+      "title": "digital logic and computer design",
       "ISBN": "8120304179",
       "department": "computer science",
       "quantity": 1,
       "year": 2003,
       "author": "m.morris mano"
-   },
-   {
-      "name": "computer graphics",
-      "ISBN": "8121935814",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2014,
-      "author": "er. rajv chopra"
-   },
-   {
-      "name": "JAVA for the world wide web",
-      "ISBN": "02135407",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1998,
-      "author": "duri smith"
-   },
-   {
-      "name": "algorithms in c",
-      "ISBN": "0201514257",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1990,
-      "author": "robert sedgewich"
-   },
-   {
-      "name": "graphics programmimg woth visual basic",
-      "ISBN": "0972305097",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1995,
-      "author": "robert w.stewart"
-   },
-   {
-      "name": "fundamentals of computer algorithims",
-      "ISBN": "97881737161266",
-      "department": "computer science",
-      "quantity": 2,
-      "year": 2007,
-      "author": "elllis horwiz"
-   },
-   {
-      "name": "designing campos networks",
-      "ISBN": "15787003302",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1998,
-      "author": "terri quinnoandry"
-   },
-   {
-      "name": "computer networking",
-      "ISBN": "0321497708",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2008,
-      "author": "james f.kurose"
-   },
-   {
-      "name": "informatin systems management in practice",
-      "ISBN": "0130340731",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1993,
-      "author": "barbara c.mcnurlin"
-   },
-   {
-      "name": "data structures algorithms and application in JAVA",
-      "ISBN": "007109217X",
-      "department": "computer science",
-      "quantity": 3,
-      "year": 2000,
-      "author": "SAHNI"
-   },
-   {
-      "name": "Data base and expert systems application",
-      "ISBN": "9783642035722",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2009,
-      "author": "bhowmick.kung"
-   },
-   {
-      "name": "data base system design implemention and management",
-      "ISBN": "061906269x",
-      "department": "computer science",
-      "quantity": 2,
-      "year": 2002,
-      "author": "peter rob carlos coronel"
-   },
-   {
-      "name": "data structures using c",
-      "ISBN": "9788131702291",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2012,
-      "author": "modhe j.augrnstein"
-   },
-   {
-      "name": "data abstraction and problem solving with c++",
-      "ISBN": "0201741199",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2002,
-      "author": "frank m.carrano"
-   },
-   {
-      "name": "data commuicaton and computer networks",
-      "ISBN": "0324593856",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2009,
-      "author": "curt m.white"
-   },
-   {
-      "name": "calculus with analytic geometry",
-      "ISBN": "0030968003",
-      "department": "computer science",
-      "quantity": 2,
-      "year": 1978,
-      "author": "robert evis"
-   },
-   {
-      "name": "mastering data base design",
-      "ISBN": "0333763173",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1998,
-      "author": "helen holding"
-   },
-   {
-      "name": "introduction to scientific programming and simulation",
-      "ISBN": "9781680941197",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2015,
-      "author": "joseph wright"
-   },
-   {
-      "name": "calculus early transcendentals",
-      "ISBN": "1256739367",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2001,
-      "author": "mavrice d.weir"
-   },
-   {
-      "name": "a first course in data processing",
-      "ISBN": "0471177385",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1997,
-      "author": "j.daniel cauger"
-   },
-   {
-      "name": "corparate information system managment",
-      "ISBN": "0072902833",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1996,
-      "author": "james l.mckenney"
-   },
-   {
-      "name": "data structure and algorithms with object oriented design patterns in c++",
-      "ISBN": "0471241342",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1999,
-      "author": "bruno r.prelss"
-   },
-   {
-      "name": "SAMS teach your self TcpIp in 24 hours",
-      "ISBN": "0672325659",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2004,
-      "author": "jue casad"
-   },
-   {
-      "name": "information system project management",
-      "ISBN": "9788132105701",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2009,
-      "author": "david avison"
-   },
-   {
-      "name": "data structures and algorsims c++",
-      "ISBN": "0534375979",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2003,
-      "author": "adem drozdek"
-   },
-   {
-      "name": "information system development method logies techniques and tools",
-      "ISBN": "0077114175",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2002,
-      "author": "david avison"
-   },
-   {
-      "name": "computer system on integrated approach to archltecture and operating systems",
-      "ISBN": "97881317912172",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2011,
-      "author": "william d.learly JR"
-   },
-   {
-      "name": "advanced PHP programming",
-      "ISBN": "067325616",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2004,
-      "author": "george schlossnagle"
-   },
-   {
-      "name": "Java the complete reference",
-      "ISBN": "9780071606301",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2011,
-      "author": "herbert schildt"
-   },
-   {
-      "name": "computer system architecture",
-      "ISBN": "8120308557",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2003,
-      "author": "m.morris mano"
-   },
-   {
-      "name": "business data communications and network",
-      "ISBN": "0471771163",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2007,
-      "author": "fitz geralD dennis"
-   },
-   {
-      "name": "introdution to games of strategy ",
-      "ISBN": "",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1970,
-      "author": "france b.may"
-   },
-   {
-      "name": "step by step microsoft office project 2007",
-      "ISBN": "9780735623057",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2007,
-      "author": "timothy johnson"
-   },
-   {
-      "name": "photoshop restoratin retouching",
-      "ISBN": "0789723182",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2001,
-      "author": "katrinelsmann"
-   },
-   {
-      "name": "visual basic for window mobile,web,office and data base applications comprehensive",
-      "ISBN": "9780619254827",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2007,
-      "author": "gary b.shelly"
-   },
-   {
-      "name": "learing prl onlvin 32 systems",
-      "ISBN": "",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1997,
-      "author": "randal l.schwartz"
-   },
-   {
-      "name": "Q basic with an introduction to visual basic",
-      "ISBN": "0134738762",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1994,
-      "author": "david l.schneider"
-   },
-   {
-      "name": "century 21 key boarding and information processing",
-      "ISBN": "0538619565",
-      "department": "computer science",
-      "quantity": 2,
-      "year": 2000,
-      "author": "robinson"
-   },
-   {
-      "name": "data networks ",
-      "ISBN": "0131968254",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1987,
-      "author": "robert gallager"
-   },
-   {
-      "name": "a guide to microsoft proxy server 2.0",
-      "ISBN": "020163371x",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1996,
-      "author": "timothy"
-   },
-   {
-      "name": "introduction to computer for college and universty student",
-      "ISBN": "",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2005,
-      "author": "temesgen azemeraw"
-   },
-   {
-      "name": "microsoft office 2007",
-      "ISBN": "9781423903963",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2008,
-      "author": "pase wark"
-   },
-   {
-      "name": "dynamic HTML",
-      "ISBN": "1565924940",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1998,
-      "author": "danny good man"
-   },
-   {
-      "name": "information technology and management",
-      "ISBN": "0256176183",
-      "department": "computer science",
-      "quantity": 3,
-      "year": 1997,
-      "author": "cata.baril thompson"
-   },
-   {
-      "name": "corporate informaion system managment",
-      "ISBN": "0072902825",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1992,
-      "author": "lynda m.applegate"
-   },
-   {
-      "name": "HTML web publishing 6 in 1",
-      "ISBN": "0789714078",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1997,
-      "author": "todd stauffer"
-   },
-   {
-      "name": "advance in computes",
-      "ISBN": "0120121506",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2000,
-      "author": "marvin v.zelokowitz"
-   },
-   {
-      "name": "windows NT v4.0 server adminstration",
-      "ISBN": "1884486207",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1997,
-      "author": "core"
-   },
-   {
-      "name": "information storage and retrieval",
-      "ISBN": "9788120507702",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2013,
-      "author": "robert r.korfhage"
-   },
-   {
-      "name": "xsit",
-      "ISBN": "1861005067",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2002,
-      "author": "micriael key"
-   },
-   {
-      "name": "next generation sshz implementions",
-      "ISBN": "9781597492836",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2009,
-      "author": "dle liu"
-   },
-   {
-      "name": "upgrading your pc",
-      "ISBN": "0789725991",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2002,
-      "author": "mork soper with partrick norton"
-   },
-   {
-      "name": "introductory circuit analysis",
-      "ISBN": "0132359049",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1997,
-      "author": "robert l "
-   },
-   {
-      "name": "software engineering",
-      "ISBN": "020139815x",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2001,
-      "author": "ian sommerivlle"
-   },
-   {
-      "name": "profession c++",
-      "ISBN": "0764575341",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2006,
-      "author": "christian nagel"
-   },
-   {
-      "name": "computer networkind internet protocals in action",
-      "ISBN": "9780471661863",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2005,
-      "author": "jeanna matthews"
-   },
-   {
-      "name": "HTML,XHTML AND CSS",
-      "ISBN": "0321430840",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2007,
-      "author": "elizabeth castro"
-   },
-   {
-      "name": "introdution to artificisl intelligence",
-      "ISBN": "9788120349971",
-      "department": "computer science",
-      "quantity": 2,
-      "year": 2014,
-      "author": "rajendra akerkar"
-   },
-   {
-      "name": "data structures and algorithms in java",
-      "ISBN": "8176351865",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1998,
-      "author": "robert lafore"
-   },
-   {
-      "name": "software project managment reading and cases",
-      "ISBN": "025618545x",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1997,
-      "author": "chris f.kemerer"
-   },
-   {
-      "name": "data structures with abstract data types and pascal",
-      "ISBN": "0534092640",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1989,
-      "author": "stubbs and webre"
-   },
-   {
-      "name": "informatin systems today",
-      "ISBN": "01318577499",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2006,
-      "author": "leanard jessup"
-   },
-   {
-      "name": "introduction to mass communication",
-      "ISBN": "0697085899",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1992,
-      "author": "jay black"
-   },
-   {
-      "name": "computer organization and design",
-      "ISBN": "8120312546",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2006,
-      "author": "p.pal chaudhurl"
-   },
-   {
-      "name": "artifical neural network",
-      "ISBN": "007057118x",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1997,
-      "author": "robert j. schalkoff"
-   },
-   {
-      "name": "artifica intelligence",
-      "ISBN": "1558605355",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1998,
-      "author": "nils nilsson"
-   },
-   {
-      "name": "computer organization and architecture",
-      "ISBN": "8120321030",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2003,
-      "author": "williams stalling"
-   },
-   {
-      "name": "the pearson custom program for cls",
-      "ISBN": "9781269680882",
-      "department": "computer science",
-      "quantity": 2,
-      "year": 2014,
-      "author": "boylston street"
-   },
-   {
-      "name": "computer networking with internet protocols and technology",
-      "ISBN": "9788131709351",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2004,
-      "author": "willam stallig"
-   },
-   {
-      "name": "software design",
-      "ISBN": "9788131718681",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2003,
-      "author": "david budgen"
-   },
-   {
-      "name": "fundamentals of logic design",
-      "ISBN": "9780534378042",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2006,
-      "author": "charles h.roth"
-   },
-   {
-      "name": "analysis and design of informatin system",
-      "ISBN": "8120317270",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2001,
-      "author": "v.rajaraman"
-   },
-   {
-      "name": "management information system for the information age",
-      "ISBN": "0071214666",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 2004,
-      "author": "stephen haag"
-   },
-   {
-      "name": "managing informaton technology ",
-      "ISBN": "0130115312",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1997,
-      "author": "e.wainrigjt martin"
-   },
-   {
-      "name": "data structures and algoriths with object oriented design patterns in c++",
-      "ISBN": "9971513595",
-      "department": "computer science",
-      "quantity": 1,
-      "year": 1999,
-      "author": "bruno r.preiss"
-   },
-   {
-      "name": "data structures and algorithms",
-      "ISBN": "534375979",
-      "department": "computer science",
-      "quantity": 2,
-      "year": 2003,
-      "author": "adam drozdek"
    }
 ]

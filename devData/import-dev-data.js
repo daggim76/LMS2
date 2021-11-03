@@ -15,7 +15,8 @@ dotenv.config({ path: "./config.env" });
 //   process.env.DATABASE_PASSWORD
 // );
 
-const LDB = process.env.DATABASE_LOCAL;
+// const LDB = process.env.DATABASE_LOCAL;
+const LDB = process.env.DATABASE;
 
 mongoose
   .connect(LDB, {

@@ -3,16 +3,16 @@ const mongoose = require("mongoose");
 var schema = new mongoose.Schema({
   title: {
     type: String,
-    required: true,
+    // required: true,
   },
   ISBN: {
     type: String,
-    unique: true,
+    // unique: true,
   },
   quantity: Number,
   department: {
     type: String,
-    required: true,
+    // required: true,
   },
   year: Number,
   author: String,
